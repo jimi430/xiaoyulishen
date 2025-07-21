@@ -7,7 +7,7 @@
     body {
       margin: 0;
       height: 100vh;
-      background-image: url("你的背景图链接.jpg"); /* <-- 在这换成你的图 */
+      background-image: url("https://raw.githubusercontent.com/jimi430/xiaoyulishen/refs/heads/main/IMG_7705.jpeg");
       background-size: cover;
       background-position: center;
       font-family: "鸿雷行书简体", cursive;
